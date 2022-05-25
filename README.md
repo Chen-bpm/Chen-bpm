@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi! There is Leon
+
+Hello(｡･∀･)ﾉﾞ
+
+You can also call me **Chen-bpm**, **Minato Chihiro** or **Alexander West**.
+
+I am a `Programming Enthusiast` and a `Server Manager` of Video Game [Minecraft](https://www.minecraft.net/) and [Barotrauma](https://barotraumagame.com/).
 
 <!--
 **Chen-bpm/Chen-bpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
