@@ -12,12 +12,3 @@ I am a `Programming Enthusiast` and a `Server Manager` of Video Game [Minecraft]
 
 <span > <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 
-## Contact me
-
-<img src="https://simpleicons.org/icons/telegram.svg" width="20" /> [Telegram@Minato_al](https://t.me/Minato_al)
-
-<img src="https://simpleicons.org/icons/discord.svg" width="20" /> Discord: Leon_west#4020
-
-<img src="https://simpleicons.org/icons/tencentqq.svg" width="20" /> TencentQQ: 2671801603, 3120276106
-
-<img src="https://simpleicons.org/icons/line.svg" width="20" /> LINE: minatochihiro233
